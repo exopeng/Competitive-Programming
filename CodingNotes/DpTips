@@ -1,0 +1,6 @@
+DP:
+- draw recursion tree
+- think about states and transitions(what is important at each step)
+- think base cases
+- think how one state builds off another
+- subproblems

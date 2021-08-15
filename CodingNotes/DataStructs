@@ -1,0 +1,16 @@
+unordered_set: Good to see if something is present, O(1) time, every element in a array is unique
+unordered_map: Maps a key and a value, access values through keys, average O(1) time, but high constant factor, hash functions are annoying tho
+multiset: same as set except can have multiple elements, logarithmic operations
+set: unique, sorted, logarithmic insertion, removal, lookup, according to a USACO camper, prefer sets over unordered sets and hash structures, because if log tles, 
+then soln is probably wrong, or weak
+map: unique keys, sorted as well, logarithmic insertion, removal, lookup
+multimap: not unique keys, sorted, logarithmic operations
+priority_queue: constant access to largest element, insertion is logarithmic
+Arrays: constant size data structure, indexing is O(1)
+Vectors: basically same as array except a bit slower, usually better though
+Queues/Stacks: FIFO, LIFO, linkedlist impl.
+Longs: good for storing large values, sometimes may actually overflow so if need to mod you can mod at every step
+pair: two elements, can make more with nested pairs
+
+
+ 

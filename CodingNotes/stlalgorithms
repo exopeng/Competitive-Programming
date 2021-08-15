@@ -1,0 +1,3 @@
+lower_bound: when you want to get the first instance of something greater than or equal to value
+upper_bound: when you want to get the first instance of something greater than value
+next_permutation: gets the next permutation of a ordering of elements

@@ -1,0 +1,37 @@
+Bronze:
+Implementation:know language really well
+Logic:problem solving
+
+Silver:
+Binary Search: 
+Floodfill: dfs on a grid
+DFS/BFS: 
+Prefix Sums/Running Sum: avoid repeating a calculation you've done by storing it
+Greedy
+Ad-hoc
+DSU/CC
+Sweep Line/Two-Pointer/Sliding Window: Usually has to be done in O(N)
+STL: sets, priority queues, maps
+All Bronze stuff
+
+Gold:
+Disjoint Set 
+Segment Tree 
+Binary-Indexed Tree (Fenwick) 
+Bellman Ford
+DFS/BFS (multisource BFS)
+Dijkstra's (multisource)
+Floyd-Warshall
+Kruskal's/Prim's (Minimum Spanning Tree)
+Topological Sort
+Fast Exponentiation
+Heavy-Light Decomposition 
+Lowest Common Ancestor
+Range Minimum Query
+Greedy 
+Dynamic Programming (Knapsack, Coin Change)
+PIE 
+All Silver stuff
+
+Platinum:
+Basically everything 
